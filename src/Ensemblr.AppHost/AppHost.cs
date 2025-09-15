@@ -8,7 +8,8 @@ internal class Program
 
         IResourceBuilder<SqlServerServerResource> sql = builder
             .AddSqlServer("sql-server").WithLifetime(ContainerLifetime.Persistent)
-            .WithDataVolume();
+            .WithDataVolume()
+            .WithHostPort(1433);
 
         IResourceBuilder<SqlServerDatabaseResource> db = sql.AddDatabase("ensemblr-db");
 

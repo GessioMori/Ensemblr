@@ -3,6 +3,7 @@
   <Project Path="Ensemblr.AppHost/Ensemblr.AppHost.csproj" />
   <Project Path="Ensemblr.Application/Ensemblr.Application.csproj" Id="f88782ad-0978-4ba1-a037-554b4a21a9f0" />
   <Project Path="Ensemblr.Domain/Ensemblr.Domain.csproj" Id="c54f53d7-02d1-4a13-bea8-fb7ad6873a58" />
+  <Project Path="Ensemblr.Identity/Ensemblr.Identity.csproj" Id="79087b4e-fcfb-4d05-b061-cb8b7aa0584c" />
   <Project Path="Ensemblr.Infra/Ensemblr.Infra.csproj" Id="12684c8b-c333-4c38-bf1e-af7ae4a128fe" />
   <Project Path="Ensemblr.ServiceDefaults/Ensemblr.ServiceDefaults.csproj" />
   <Project Path="Ensemblr.Shared/Ensemblr.Shared.csproj" Id="2c686519-e1aa-45d0-a065-67950522df56" />
