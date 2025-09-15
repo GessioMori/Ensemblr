@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="Ensemblr.Api/Ensemblr.Api.csproj" Id="f7911d47-27de-4b55-b877-1422bed19087" />
   <Project Path="Ensemblr.AppHost/Ensemblr.AppHost.csproj" />
   <Project Path="Ensemblr.ServiceDefaults/Ensemblr.ServiceDefaults.csproj" />
 </Solution>
