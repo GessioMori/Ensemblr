@@ -11,11 +11,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.4.0" />
+    <PackageReference Include="Aspire.Hosting.AppHost" Version="9.4.2" />
+    <PackageReference Include="Aspire.Hosting.NodeJs" Version="9.4.2" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Ensemblr.Api\Ensemblr.Api.csproj" />
+    <ProjectReference Include="..\Ensemblr.Web\Ensemblr.Web.esproj" />
   </ItemGroup>
 
 </Project>
