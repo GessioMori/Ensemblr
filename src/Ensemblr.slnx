@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ensemblr.AppHost/Ensemblr.AppHost.csproj" />
+  <Project Path="Ensemblr.ServiceDefaults/Ensemblr.ServiceDefaults.csproj" />
+</Solution>
